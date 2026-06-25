@@ -44,3 +44,13 @@ This project helped in understanding:
 * Authentication Systems
 * Banking Application Workflow
 
+## Screenshots
+
+### Admin Menu
+![Admin Menu](screenshots/admin-menu.png)
+
+### User Balance Check
+![User Balance](screenshots/user-menu.png)
+
+### Transaction Logs
+![Transaction Logs](screenshots/transaction.png)
