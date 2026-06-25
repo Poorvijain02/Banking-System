@@ -47,10 +47,10 @@ This project helped in understanding:
 ## Screenshots
 
 ### Admin Menu
-![Admin Menu](screenshots/admin-menu.png)
+![Admin Menu](screenshots/adminmenu.png)
 
 ### User Balance Check
-![User Balance](screenshots/user-menu.png)
+![User Balance](screenshots/usermenu.png)
 
 ### Transaction Logs
 ![Transaction Logs](screenshots/transaction.png)
